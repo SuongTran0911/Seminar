@@ -32,7 +32,7 @@ Danh sách các tính năng đã tìm hiểu
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](relative-path-to-your-gif-file-on-github-or-absolute-path-to-file-on-imgur-or-youtube)
+https://github.com/SuongTran0911/Seminar/commit/e0edbba26d28e8778690a6b4b3d83ea49b6a5497
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
